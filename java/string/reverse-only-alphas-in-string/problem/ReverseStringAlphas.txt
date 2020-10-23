@@ -9,3 +9,7 @@ Sample I/O:
 	
 	Input: 'abcdef123456'
 	Output: 'fedcba123456'
+
+Author List:
+	Parveen,
+	You can also contribute with giving solutions to existing problem or add a new one.	

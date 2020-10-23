@@ -1,7 +1,8 @@
 /******************************************************************************
 
 Author List:
-	Parveen
+	Parveen,
+	You can also contribute with giving solutions to existing problem or add a new one.  
 
 Sample I/O:
 	Input: 'stardum'

@@ -1,0 +1,12 @@
+Program to find a missing number in array having numbers 0 to n with one number missing from 0 to n.
+
+ > Elements can be in sorted or unsorted order. 
+
+Sample I/O:
+	Input: [2,1,9,6,4,3,8,5]
+	Output: 7 //As seven is missing.
+
+Author List:
+	Parveen,
+	You can also contribute with giving solutions to existing problem or add a new one.
+	

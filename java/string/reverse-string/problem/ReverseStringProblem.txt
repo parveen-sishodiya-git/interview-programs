@@ -3,3 +3,7 @@ Program to reverse the string without use java reverse api.
 Sample I/O:
 	Input: 'stardum'
 	Output: 'mudrats'
+	
+Author List:
+	Parveen,
+	You can also contribute with giving solutions to existing problem or add a new one.	
