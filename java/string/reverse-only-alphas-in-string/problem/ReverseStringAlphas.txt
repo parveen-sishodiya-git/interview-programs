@@ -1,0 +1,11 @@
+Program to reverse the string alphabets only and keep in same order of other than alphas.
+
+Sample I/O:
+	Input: '@a#b$$c@*@de%%%@f'
+	Output: '@f#e$$d@*@cb%%%@a'
+	
+	Inout: 'abcdef#$%^&'
+	Output: 'fedcba#$%^&'
+	
+	Input: 'abcdef123456'
+	Output: 'fedcba123456'
