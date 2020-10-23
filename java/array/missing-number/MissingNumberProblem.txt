@@ -1,6 +1,7 @@
 Program to find a missing number in array having numbers 0 to n with one number missing from 0 to n.
 
  > Elements can be in sorted or unsorted order. 
+ > There are no duplicates in the list.
 
 Sample I/O:
 	Input: [2,1,9,6,4,3,8,5]
