@@ -1,0 +1,20 @@
+Write a program in java to write fibonacci series upto n terms(taken by user as input).
+
+Ex - 
+
+0 + 1 = 1
+1 + 1 = 2
+1 + 2 = 3
+2 + 3 = 5
+3 + 5 = 8
+5 + 8 = 13
+- + - = -
+- + - = -
+- + - = -
+- + - = -
+p + c = n
+
+
+p = previous
+c = current
+n = next
