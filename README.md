@@ -7,7 +7,6 @@ And for a particular Problem there are different solution according to time comp
 
 # Index
 
-#   Java
-#     String
+# Java > String
         1) Program to reverse the String without using java reverse API Ex - Input: 'abcdef' , Output: 'fedcba'
       
