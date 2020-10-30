@@ -1,0 +1,13 @@
+Program to find if the given string contains only numeric values.
+
+
+Sample I/O:
+	Input	: '46387648'
+	Output	: 'String contains only numbers.'
+	
+	Inout	: '7n378d'
+	Output	: 'String does't contains only numbers.'
+	
+Author List:
+	Parveen,
+	You can also contribute with giving solutions to existing problem or add a new one.	

@@ -1,0 +1,16 @@
+Program to find if two string are anagram of each other.
+
+What are anagram strings?
+
+If two strings are anagram then their length will be same and all the alphabets with respective frequency will be exactly equivalent to the second string.
+
+Sample I/O:
+	Input	: 'abcdef'
+	Output	: 'bfaedc'
+	
+	Inout	: 'Listen'
+	Output	: 'Silent'
+	
+Author List:
+	Parveen,
+	You can also contribute with giving solutions to existing problem or add a new one.	
