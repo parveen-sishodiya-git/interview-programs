@@ -10,7 +10,7 @@ And for a particular Problem there are different solution according to time comp
 # Java > String
         1) Program to reverse the String without using java reverse API Ex - Input: 'abcdef' , Output: 'fedcba'
         2) Program to reverse the string alphabets only and keep in same order of other than alphas. Ex - Input: 'abcdef123456' , Output: 'fedcba123456'
-        3) Program to reverse the words in a given Sentence Ex - Input: '  Hello! you are a good , boy' , Outpur: '  !olleH uoy era a doog , yob'
+        3) Program to reverse the words in a given Sentence Ex - Input: '  Hello! you are a good , boy' , Output: '  !olleH uoy era a doog , yob'
 # Java > Array
         3) Program to find a missing number in array having numbers 0 to n with one number missing from 0 to n. Ex - Input: [2,1,9,6,4,3,8,5] , Output: 7 //As seven is missing.
  
