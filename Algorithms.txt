@@ -1,0 +1,18 @@
+Algorithms:
+
+
+String
+
+1> program to print the duplicates in the string.
+
+Algorithm 1: TC - O(n) SC - O(n) 
+	1) convert the sting into character array
+	2) start iterating array and put characters in haspmap one by one
+	3) check if character already present
+	4) if no then put character with int 1
+	5) if yes take the previous value and put its increment by one num++;
+	6) print output with condition if value > 1 then print chracter.
+
+
+
+2> program to print 

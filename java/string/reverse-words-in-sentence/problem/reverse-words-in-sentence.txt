@@ -1,0 +1,12 @@
+Program to reverse the words in the given sentence.
+
+Sample I/O:
+	Input	: 'please reverse my words only'
+	Output	: 'esaelp esrever ym sdrow ylno'
+	
+	Inout	: 'abcd efgh'
+	Output	: 'dcba hgfe'
+	
+Author List:
+	Parveen,
+	You can also contribute with giving solutions to existing problem or add a new one.	
